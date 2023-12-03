@@ -1,4 +1,4 @@
-# `peppermint` - minimalistic transformers for search
+# `peppermint` - minimal transformers for search
 
 `peppermint` is a python package that minimally implements a small number of transformer-based IR methods, such as:
 
